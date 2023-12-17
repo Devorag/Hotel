@@ -53,6 +53,8 @@ Konner, Scott, Denver, Colorado, Suite, 4, 401, 11/11/23, 11/18/23
 Malder, Brian, Deal, New Jersey, Classic, 7, 718, 200, 11/19/23, 11/22/23
 Sypin, Daisy, Atlanta, Georgia, Queen, 2, 220, 400, 11/25/23, 11/26/23
 Shripper, Marla, North Miami Beach, Florida, King, 4, 411, 500, 11/29/23, 12/05/23
+Korn, Willy, Seattle, Washington, Suite, 3, 314, 300, 12/03/23, 12/06/23
+Ronardo, Patty, Palm Springs, California, Queen, 5, 506, 400, 12/08/23, 12/12/23
 
 I need the following reports:
 1. show me how much money the glorious hotel chain has made, per location
