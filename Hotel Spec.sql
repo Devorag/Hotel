@@ -35,26 +35,26 @@ A No, the check in and check process must be done at the front desk at the time 
 
 
 Sample data:
-Richardson, Alan, Seattle, Washington, Classic, 7, 719, 200, 11/04/22, 11/18/22
-Lapp, Rick, Las Vegas, Nevada, Queen, 4, 409, 400, 10/22/22, 11/02/22
-Vikers, Dave, Atlanta, Georgia, Classic, 2, 202, 200, 3/9/23, 3/12/23
-Ripps, Sandy, North Miami Beach, Florida, King, 6, 618, 500, 4/4/23, 4/17/23
-Bagler, Tim, Denver, Colarado, Suite, 5, 514, 300, 5/1/23, 5/7/23
-Mordich, Helen, Deal, New Jersey, Suite, 3, 300, 300, 5/11/23, 5/12/23
-Keel, Carolyn, Palm Springs, California, King, 6, 611, 500, 6/13/23, 6/18/23
-Spelter, Gerald, North Miami Beach, Florida, Classic, 7, 709, 200, 6/20/23, 6/22/23
-Ogorman, Mitch, Denver, Colorado, Queen, 2, 220, 400, 7/26/23, 7/30/23
-Alink, Sherry, Deal, New Jersey, Suite, 5, 507, 300, 8/01/23, 8/03/23
-Carron, Liz, Las Vegas, Nevada, King, 3, 315, 500, 8/04/23, 8/17/23
-Byers, Nick, Atlanta, Georgia, Queen, 5, 503, 400, 9/6/23, 9/7/23
+Richardson, Alan, Seattle, Washington, Classic, 7, 719, 11/04/22, 11/18/22
+Lapp, Rick, Las Vegas, Nevada, Queen, 4, 409, 10/22/22, 11/02/22
+Vikers, Dave, Atlanta, Georgia, Classic, 2, 202, 3/9/23, 3/12/23
+Ripps, Sandy, North Miami Beach, Florida, King, 6, 618, 4/4/23, 4/17/23
+Bagler, Tim, Denver, Colarado, Suite, 5, 514, 5/1/23, 5/7/23
+Mordich, Helen, Deal, New Jersey, Suite, 3, 300, 5/11/23, 5/12/23
+Keel, Carolyn, Palm Springs, California, King, 6, 611, 6/13/23, 6/18/23
+Spelter, Gerald, North Miami Beach, Florida, Classic, 7, 709, 6/20/23, 6/22/23
+Ogorman, Mitch, Denver, Colorado, Queen, 2, 220, 7/26/23, 7/30/23
+Alink, Sherry, Deal, New Jersey, Suite, 5, 507, 8/01/23, 8/03/23
+Carron, Liz, Las Vegas, Nevada, King, 3, 315, 8/04/23, 8/17/23
+Byers, Nick, Atlanta, Georgia, Queen, 5, 503, 9/6/23, 9/7/23
 Wheaton, Joe, Palm Springs, California, Classic, 6, 618, 10/9/23, 10/16/23
 Drup, Sonia, Atlanta, Georgia, King, 2, 209, 11/11/23, 11/15/23
 Konner, Scott, Denver, Colorado, Suite, 4, 401, 11/11/23, 11/18/23
-Malder, Brian, Deal, New Jersey, Classic, 7, 718, 200, 11/19/23, 11/22/23
-Sypin, Daisy, Atlanta, Georgia, Queen, 2, 220, 400, 11/25/23, 11/26/23
-Shripper, Marla, North Miami Beach, Florida, King, 4, 411, 500, 11/29/23, 12/05/23
-Korn, Willy, Seattle, Washington, Suite, 3, 314, 300, 12/03/23, 12/06/23
-Ronardo, Patty, Palm Springs, California, Queen, 5, 506, 400, 12/08/23, 12/12/23
+Malder, Brian, Deal, New Jersey, Classic, 7, 718, 11/19/23, 11/22/23
+Sypin, Daisy, Atlanta, Georgia, Queen, 2, 220, 11/25/23, 11/26/23
+Shripper, Marla, North Miami Beach, Florida, King, 4, 411, 11/29/23, 12/05/23
+Korn, Willy, Seattle, Washington, Suite, 3, 314, 12/03/23, 12/06/23
+Ronardo, Patty, Palm Springs, California, Queen, 5, 506, 12/08/23, 12/12/23
 
 I need the following reports:
 1. show me how much money the glorious hotel chain has made, per location
