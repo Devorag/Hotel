@@ -10,7 +10,7 @@ For each booking, I need to know:
  4. what kind of room they are booking: King, Queen, Suite, or Classic. Please note we have only these 4 different kinds of rooms.
  5.Floor Number: our hotels all have 8 floors, but the top floor is used for utilities and the bottom is used for the lobby
  6. Room number: we have 20 rooms on each floor. the room number starts with the floor number and goes from 1 thru 20. (ex: 208)
- 7. Price per night: King - 500 Queen - 400 Suite - 300 Classic - 200.
+ 7. Price per night: King - 500 Queen - 400 Suite - 300 Classic - 200.-
  8. check-in date
  9. check-out date. please note the amount of days stayed consecutively per guest cannot exceed 15
  10. a calculation of how many days stayed
