@@ -1,3 +1,7 @@
+use hotelDB
+delete guests
+go
+
 insert guests(LastName, FirstName, HotelLocation, RoomType, FloorNumber, RoomNumber, CheckInDate, CheckOutDate)
 select 'Richardson', 'Alan', 'Seattle, Washington', 'Classic', 7, 719, '11/04/22', '11/18/22'
 union select 'Lapp', 'Rick', 'Las Vegas, Nevada', 'Queen', 4, 409, '10/22/22', '11/02/22'
