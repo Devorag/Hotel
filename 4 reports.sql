@@ -1,7 +1,7 @@
 
 --I need the following reports:
 --1. show me how much money the glorious hotel chain has made, per location
-SELECT TotalPerLocation = Sum(g.price), g.HotelLocation
+SELECT TotalPerLocation = Sum(g.TotalCostOfStay), g.HotelLocation
 from guests g  
 group by g.HotelLocation
 --2. the total average nightly hotel stays per each location
