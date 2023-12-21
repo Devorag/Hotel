@@ -1,6 +1,6 @@
 use master
 go 
-drop database if exists hotel 
+drop database if exists hotelDB
 go 
 create database hotelDB
 go 
